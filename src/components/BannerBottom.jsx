@@ -26,9 +26,8 @@ const BannerBottom = () => {
             <div className="mb-8 mt-7">
               <p className="text-xl md:text-[22px] 2xl:text-2xl text-primaryText leading-[160%] 2xl:leading-[155%]">
                 Hello and welcome to my Personal Website! As a{" "}
-                <br className="lg:block hidden" />{" "}
                 <span className="font-bold">AI and SWE Enthusiast,</span> I have
-                a passion for <br className="lg:block hidden" /> working on{" "}
+                a passion for working on{" "}
                 <span className="font-bold">
                   innovative technologies and <br className="lg:block hidden" />{" "}
                   crafting efficient algorithms.
