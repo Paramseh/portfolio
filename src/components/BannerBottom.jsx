@@ -7,7 +7,7 @@ const BannerBottom = () => {
           {/* Left side */}
           <div className="w-full">
             <img
-              src="./images/banner-2.webp"
+              src="./images/banner-2.png"
               alt="banner-2"
               className="w-full h-full"
             />
@@ -32,7 +32,7 @@ const BannerBottom = () => {
                   innovative technologies and <br className="lg:block hidden" />{" "}
                   crafting efficient algorithms.
                 </span>{" "}
-                Take a look at my resume to see some of my latest projects.
+                Take a look at my resume to see some of my latest projects (Love CV Stuff).
               </p>
             </div>
 
@@ -41,7 +41,7 @@ const BannerBottom = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://drive.google.com/file/d/1RtLjN_5h6fUFTAIyCM8ISDVxbVaHubhP/view?usp=sharing"
+                href="https://drive.google.com/file/d/1_2R7AMjZZJEvxD8nXUjRfX9_VMipg3Dq/view?usp=sharing"
               >
                 <button className="w-full md:w-auto bg-secondaryText text-black uppercase 2xl:text-base text-sm font-bold tracking-[1px] px-8 py-4 hover:-translate-y-2 md:hover:translate-x-4 hover:bg-buttonHover duration-300">
                   find out more
