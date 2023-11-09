@@ -12,7 +12,7 @@ const Navbar = () => {
     {
       id: 2,
       title: "Resume",
-      path: "https://drive.google.com/file/d/1_2R7AMjZZJEvxD8nXUjRfX9_VMipg3Dq/view?usp=sharing",
+      path: "https://drive.google.com/file/d/1pn5R3RAYT7yHZs05FvsoX03TGjHCURfB/view?usp=sharing",
     },
     {
       id: 3,
