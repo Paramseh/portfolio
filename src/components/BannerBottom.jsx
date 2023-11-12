@@ -15,12 +15,6 @@ const BannerBottom = () => {
 
           {/* Right side */}
           <div className="w-full">
-            {/* Heading */}
-            <div>
-              <h1 className="text-headingColor text-[28px] md:text-[33px] 2xl:text-[42px] leading-[125%] heading uppercase">
-                AI architect
-              </h1>
-            </div>
 
             {/* Content */}
             <div className="mb-8 mt-7">
